@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/user/semua scenes/Menu_utama.unity
+  isLoaded: 1
+  isActive: 1
